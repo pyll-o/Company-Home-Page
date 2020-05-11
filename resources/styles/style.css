@@ -206,6 +206,8 @@ nav li {
 
 .banner {
     width: 100%;
+    position: absolute;
+    top: 71px
 }
 
 .banner img {
